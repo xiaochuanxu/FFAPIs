@@ -1,0 +1,6 @@
+framework module Pods_FFAPIs_Example {
+  umbrella header "Pods-FFAPIs_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

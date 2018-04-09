@@ -1,0 +1,22 @@
+{
+  "name": "FFAPIs",
+  "version": "0.1.0",
+  "summary": "A short description of FFAPIs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaochuanxu/FFAPIs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaochuanxu": "xuxiaochuan@zbj.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaochuanxu/FFAPIs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFAPIs/Classes/**/*"
+}
