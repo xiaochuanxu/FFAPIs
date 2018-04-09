@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '69B79F6EBB9EBDB728BF0E281516A97C'
+               BlueprintIdentifier = '24D22B79F509B1127109446ABA111FDD'
                BlueprintName = 'FFAPIs'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'FFAPIs.framework'>
