@@ -1,6 +1,6 @@
 {
   "name": "FFAPIs",
-  "version": "1.3",
+  "version": "1.4",
   "summary": "A short description of FFAPIs.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaochuanxu/FFAPIs",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/xiaochuanxu/FFAPIs.git",
-    "tag": "1.3"
+    "tag": "1.4"
   },
   "platforms": {
     "ios": "8.0"
@@ -24,6 +24,9 @@
 
     ],
     "FMDB": [
+
+    ],
+    "MBProgressHUD": [
 
     ]
   }
